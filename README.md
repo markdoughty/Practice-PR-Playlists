@@ -1,5 +1,6 @@
 # Practice-PR-Playlists
 Practice creating pull requests with a list of playlists.
+(With thanks to [https://github.com/bhargav794/hacktoberfest-practice-music-playlists](https://github.com/bhargav794/hacktoberfest-practice-music-playlists))
 
 ## To start ...
 Create an account on Github, and make sure you have the following installed:
